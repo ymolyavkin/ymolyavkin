@@ -18,7 +18,7 @@ Java developer with one year of experience developing.
               <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/python.png" alt="python" width="80"/>
             </figure>
             <figure>
-                <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="180"/>
+                <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="80"/>
             </figure>
 </div>  
 figure {
