@@ -7,7 +7,10 @@ Java developer with one year of experience developing.
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
 *   GitHub/GitLab
 
-
+<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/java.png" alt="java" width="180"/>
+<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/csharp.png" alt="csharp" width="180"/>
+<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/python.png" alt="python" width="180"/>
+<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="180"/>
 
 <!--
 ### Hi there 👋
