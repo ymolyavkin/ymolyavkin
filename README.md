@@ -1,6 +1,16 @@
-### Hi there 👋
+# Hi, I'm Yuriy 👋
+Java developer with one year of experience developing.
+
+## 🛠 Technical Stack
+*   Java/C#/Python languages
+*   MySQL, PostgreSQL
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
+*   GitHub/GitLab
+
+
 
 <!--
+### Hi there 👋
 **ymolyavkin/ymolyavkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
