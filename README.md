@@ -7,10 +7,30 @@ Java developer with one year of experience developing.
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
 *   GitHub/GitLab
 
-<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/java.png" alt="java" width="180"/>
-<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/csharp.png" alt="csharp" width="180"/>
-<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/python.png" alt="python" width="180"/>
-<img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="180"/>
+<div id="images">
+            <figure>
+                <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/java.png" alt="java" width="80"/>               
+            </figure>
+
+            <figure>
+                <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/csharp.png" alt="csharp" width="80"/>                  
+            </figure>
+
+            <figure>
+              <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/python.png" alt="python" width="80"/>
+            </figure>
+
+            <figure>
+                <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="180"/>
+            </figure>
+</div>  
+figure {
+    width: 25%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
 
 <!--
 ### Hi there 👋
