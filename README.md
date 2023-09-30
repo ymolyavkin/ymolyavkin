@@ -11,15 +11,12 @@ Java developer with one year of experience developing.
             <figure>
                 <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/java.png" alt="java" width="80"/>               
             </figure>
-
             <figure>
                 <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/csharp.png" alt="csharp" width="80"/>                  
             </figure>
-
             <figure>
               <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/python.png" alt="python" width="80"/>
             </figure>
-
             <figure>
                 <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="180"/>
             </figure>
