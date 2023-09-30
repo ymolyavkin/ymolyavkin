@@ -21,13 +21,16 @@ Java developer with one year of experience developing.
                 <img src="https://github.com/ymolyavkin/ymolyavkin/blob/main/img/sql.png" alt="sql" width="80"/>
             </figure>
 </div>  
-figure {
+<style>
+        figure {
     width: 25%;
     float: left;
     margin: 0;
     text-align: center;
     padding: 0;
-}
+}    
+</style>
+
 
 <!--
 ### Hi there 👋
